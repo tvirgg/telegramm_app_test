@@ -1,0 +1,14 @@
+{
+  "url": "http://localhost:3000",
+  "name": "Telegram TON App",
+  "iconUrl": "https://ton.org/download/ton_symbol.png",
+  "termsOfUseUrl": "http://localhost:3000/terms",
+  "privacyPolicyUrl": "http://localhost:3000/privacy",
+  "items": [
+    {
+      "name": "Telegram Wallet",
+      "platforms": ["ios", "android", "chrome", "firefox", "safari"],
+      "universalLink": "https://t.me/wallet"
+    }
+  ]
+}
